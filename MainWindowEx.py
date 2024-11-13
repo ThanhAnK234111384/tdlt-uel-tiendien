@@ -81,4 +81,3 @@ class MainWindow(QtWidgets.QMainWindow, Ui_MainWindow):
     def show_error(self, message):
         QMessageBox.critical(self, "Lỗi", message)
 
-
