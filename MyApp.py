@@ -1,5 +1,5 @@
 from PyQt6.QtWidgets import QApplication, QMainWindow
-from Tiendien.MainWindowEx import MainWindow
+from MainWindowEx import MainWindow
 
 app = QApplication([])
 mainWindow = MainWindow()
